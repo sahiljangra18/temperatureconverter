@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    /* background-image: url(qq.avif); */
+    background-color: gray;
+}
+
+.container {
+    width: 80%;
+    margin: 30px 100px;
+    padding: 20px 40px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+    background-color: rgba(74, 74, 74, 0.567);
+    border-radius: 6px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+select {
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 20px;
+}
+h1,h4{
+        text-align: center;
+}
+.img{
+    margin-left: 80px;
+    height: 400px;
+}
